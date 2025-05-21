@@ -5,3 +5,5 @@ git config --global init.defaultBranch main
 git status
 git add readme.md
 git add .
+git checkout [hash]
+git branch -M main
