@@ -5,6 +5,7 @@ git config --global init.defaultBranch main
 git status
 git add readme.md
 git add .
+git commit
 git checkout [hash]
 git branch -M main
 git remote add origin https://github.com/rasheedarm/git_project.git
